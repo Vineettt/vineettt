@@ -1,75 +1,83 @@
-<h1 align="center">Hi 👋, I'm a Full Stack Engineer</h1>
+<h1 align="center">Hi 👋, I'm Vineet</h1>
 <p align="center">
-  Building backend systems, developer platforms, and automation tooling for scalable applications
+I build backend systems, authorization layers, and automation tools
 </p>
 
 ---
 
-## 🚀 What I Do
-- Design and build scalable backend systems and APIs
-- Develop internal developer tools and automation platforms
-- Build secure authorization systems (RBAC / PBAC) for multi-tenant applications
-- Create reliable E2E testing frameworks for production systems
+## 🚀 What I Work On
+
+* Backend systems and REST APIs using Node.js
+* Authorization systems (RBAC / PBAC) for multi-tenant apps
+* Developer tooling and automation workflows
+* End-to-end testing using Playwright
+* Data processing systems (SFTP pipelines, background jobs)
 
 ---
 
-## 🛠️ Core Stack
-Node.js • TypeScript • Angular • React • Python • PostgreSQL • MongoDB • AWS • Docker • CI/CD  
+## 🛠️ Stack I Use Often
+
+**Backend:** Node.js, TypeScript, Express
+**Frontend:** Angular, React
+**Databases:** PostgreSQL, MongoDB, MySQL
+**Other:** Python, AWS, Docker, CI/CD, Playwright
 
 ---
 
-## 🧠 Engineering Focus
-- System design & distributed architecture  
-- Microservices-based backend systems  
-- Access control & authorization design (RBAC / PBAC)  
-- Infrastructure automation & workflow orchestration  
-- Test automation & reliability engineering (Playwright)  
+## 🧠 Things I Care About
+
+* Designing systems that are easy to extend and maintain
+* Keeping authorization logic clean and scalable
+* Automating repetitive engineering workflows
+* Writing tests that actually catch real issues
+* Migrating legacy systems without breaking things
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 gh-orchestrator
-Self-hosted GitHub runner orchestration system for local infrastructure  
-- Built persistent execution engine using SQLite (WAL mode)  
-- Designed for reliable lifecycle management of runner processes  
-- Focused on automation, resilience, and system observability  
+
+Automation engine for managing self-hosted GitHub runners
+
+* Handles runner lifecycle on local infrastructure
+* Uses SQLite (WAL mode) for persistent state
+* Built with modular components for reliability
 
 ---
 
 ### 🔹 access-matrix
-Type-safe authorization library for Node.js applications  
-- Implements RBAC and PBAC models for fine-grained access control  
-- Supports PostgreSQL and SQLite backends  
-- Designed for multi-tenant and scalable SaaS systems  
+
+Authorization library for Node.js
+
+* Supports RBAC and PBAC models
+* Works with PostgreSQL and SQLite
+* Designed for multi-tenant applications
 
 ---
 
 ### 🔹 Form Builder Platform
-Enterprise-grade dynamic form generation system  
-- JSON-driven dynamic form rendering engine  
-- Google Sheets integration for workflow automation  
-- AWS S3-based storage layer  
-- Built-in RBAC-based access control system  
+
+Dynamic form system used for structured data collection
+
+* JSON-driven form rendering
+* Google Sheets integration
+* AWS S3 storage
+* Role-based access control
 
 ---
 
-## 🧠 Notable Engineering Contributions
-- Built internal authorization framework used across multiple applications  
-- Designed automation system for managing self-hosted CI runners  
-- Improved system reliability through structured E2E test coverage strategy  
-- Migrated legacy Windows desktop application to scalable Angular-based web platform  
-- Developed SFTP-based data ingestion pipelines for enterprise automation systems  
+## ⚙️ Some Things I've Built
+
+* Authorization systems used across multiple applications
+* Automation workflows for CI and data processing
+* Playwright-based E2E test suites for production systems
+* Migration of a Windows desktop app to Angular web platform
+* Backend systems for SFTP-based data ingestion
 
 ---
 
-## 📌 Engineering Highlights
-- Designed reusable full-stack architecture (Node.js + Angular) with built-in authorization layer  
-- Built Playwright-based E2E testing framework for critical business workflows  
-- Created reusable authorization framework adopted across multiple internal projects  
+## 📫 Reach Out
 
----
-
-## 📫 Connect
-GitHub: https://github.com/Vineettt  
-LinkedIn: https://www.linkedin.com/in/vineet-yadav-91800abb/
+* GitHub: https://github.com/Vineettt
+* LinkedIn: https://www.linkedin.com/in/vineet-yadav-91800abb/
