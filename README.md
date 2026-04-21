@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Engineer</h1>
 <p align="center">
-  Building scalable backend systems, APIs, and developer tooling
+  Building backend systems, developer platforms, and automation tooling for scalable applications
 </p>
 
 ---
 
 ## 🚀 What I Do
-- Design scalable backend systems and APIs  
-- Build developer tooling and automation systems  
-- Implement secure authorization systems (RBAC / PBAC)  
-- Develop reliable test automation frameworks  
+- Design and build scalable backend systems and APIs
+- Develop internal developer tools and automation platforms
+- Build secure authorization systems (RBAC / PBAC) for multi-tenant applications
+- Create reliable E2E testing frameworks for production systems
 
 ---
 
@@ -19,45 +19,54 @@ Node.js • TypeScript • Angular • React • Python • PostgreSQL • Mongo
 ---
 
 ## 🧠 Engineering Focus
-- System design & architecture  
-- Microservices-based applications  
-- Access control systems (RBAC / PBAC)  
-- E2E automation frameworks (Playwright)  
-- Workflow & process automation  
+- System design & distributed architecture  
+- Microservices-based backend systems  
+- Access control & authorization design (RBAC / PBAC)  
+- Infrastructure automation & workflow orchestration  
+- Test automation & reliability engineering (Playwright)  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 gh-orchestrator
-Automation engine for self-hosted GitHub runners  
-- Persistent state management using SQLite (WAL mode)  
-- Designed for reliability and lifecycle orchestration  
+Self-hosted GitHub runner orchestration system for local infrastructure  
+- Built persistent execution engine using SQLite (WAL mode)  
+- Designed for reliable lifecycle management of runner processes  
+- Focused on automation, resilience, and system observability  
 
 ---
 
 ### 🔹 access-matrix
-Type-safe authorization library  
-- Implements RBAC & PBAC models  
-- Supports PostgreSQL & SQLite  
-- Designed for scalable multi-tenant systems  
+Type-safe authorization library for Node.js applications  
+- Implements RBAC and PBAC models for fine-grained access control  
+- Supports PostgreSQL and SQLite backends  
+- Designed for multi-tenant and scalable SaaS systems  
 
 ---
 
 ### 🔹 Form Builder Platform
-- Dynamic JSON-driven forms  
-- Google Sheets integration  
-- AWS S3 storage  
-- Fine-grained access control system  
+Enterprise-grade dynamic form generation system  
+- JSON-driven dynamic form rendering engine  
+- Google Sheets integration for workflow automation  
+- AWS S3-based storage layer  
+- Built-in RBAC-based access control system  
 
 ---
 
-## 🧠 Engineering Highlights
-- Built reusable full-stack architecture (Node.js + Angular)  
-- Migrated legacy desktop application to scalable web platform  
-- Designed Playwright-based E2E testing framework  
-- Built SFTP automation pipelines for enterprise workflows  
-- Developed reusable authorization framework used across projects  
+## 🧠 Notable Engineering Contributions
+- Built internal authorization framework used across multiple applications  
+- Designed automation system for managing self-hosted CI runners  
+- Improved system reliability through structured E2E test coverage strategy  
+- Migrated legacy Windows desktop application to scalable Angular-based web platform  
+- Developed SFTP-based data ingestion pipelines for enterprise automation systems  
+
+---
+
+## 📌 Engineering Highlights
+- Designed reusable full-stack architecture (Node.js + Angular) with built-in authorization layer  
+- Built Playwright-based E2E testing framework for critical business workflows  
+- Created reusable authorization framework adopted across multiple internal projects  
 
 ---
 
