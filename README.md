@@ -15,6 +15,7 @@ Automation engine for managing self-hosted GitHub runners
 * Manages runner lifecycle on local infrastructure
 * Uses SQLite (WAL mode) for persistent state
 * Built with decoupled components for reliable execution
+* Designed for automated, resilient runner orchestration
 
 ---
 
@@ -25,6 +26,7 @@ Authorization library for Node.js
 * Supports RBAC and PBAC models
 * Enables fine-grained, policy-based access control
 * Works with PostgreSQL and SQLite
+* Designed for extensible and multi-tenant authorization
 
 ---
 
@@ -69,4 +71,4 @@ Dynamic system for structured data collection
 ## 📫 Reach Out
 
 * GitHub: https://github.com/Vineettt
-* LinkedIn: https://www.linkedin.com/in/vineet-yadav-91800abb/
+* LinkedIn: https://www.linkedin.com/in/vineet-yadav-91800abb
