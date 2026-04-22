@@ -1,58 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
 
 <p align="center">
-  I build backend systems, authorization layers, and automation tools
+  Backend engineer building scalable systems, event-driven pipelines, and authorization layers
 </p>
-
----
-
-## 🚀 What I Work On
-
-* Backend systems and REST APIs (Node.js, microservices)
-* Authorization systems (RBAC / PBAC) for multi-tenant applications
-* Developer tooling and automation workflows
-* End-to-end testing using Playwright
-* Data processing systems (SFTP pipelines, background jobs)
-
----
-
-## 🛠️ Stack I Use Often
-
-**Backend**
-
-* Node.js, TypeScript, Express
-* PHP (Laravel, CodeIgniter, Yii2)
-
-**Frontend**
-
-* Angular, React
-* HTML, CSS, SASS
-
-**Mobile**
-
-* React Native
-
-**Databases**
-
-* PostgreSQL, MongoDB, MySQL
-
-**Other**
-
-* Python
-* AWS
-* Docker
-* CI/CD
-* Playwright
-
----
-
-## 🧠 Things I Care About
-
-* Designing systems that are easy to extend and maintain
-* Keeping authorization logic clean and scalable
-* Automating repetitive engineering workflows
-* Writing tests that catch real issues
-* Migrating legacy systems without breaking functionality
 
 ---
 
@@ -62,9 +12,9 @@
 
 Automation engine for managing self-hosted GitHub runners
 
-* Handles runner lifecycle on local infrastructure
+* Manages runner lifecycle on local infrastructure
 * Uses SQLite (WAL mode) for persistent state
-* Built with modular components for reliability
+* Built with decoupled components for reliable execution
 
 ---
 
@@ -73,30 +23,46 @@ Automation engine for managing self-hosted GitHub runners
 Authorization library for Node.js
 
 * Supports RBAC and PBAC models
+* Enables fine-grained, policy-based access control
 * Works with PostgreSQL and SQLite
-* Designed for multi-tenant applications
 
 ---
 
 ### 🔹 Form Builder Platform
 
-Dynamic form system for structured data collection
+Dynamic system for structured data collection
 
 * JSON-driven form rendering
 * Google Sheets integration
 * AWS S3 storage
-* Role-based access control
+* Fine-grained access control
 
 ---
 
-## ⚙️ Some Things I've Built
+## ⚡ Highlights
 
-* Authorization systems used across multiple applications
-* Automation workflows for CI and data processing
-* Playwright-based E2E test suites for production systems
-* Hybrid mobile app for PDF generation and image data processing (React Native)
-* Migration of a Windows desktop application to Angular web platform
-* Backend systems for SFTP-based data ingestion and processing
+* Event-driven CSV ingestion pipelines with concurrent processing
+* Redis-based rate limiting and caching systems
+* Authorization systems across multiple applications
+
+---
+
+## 🧩 Areas I Work In
+
+* Scalable backend systems (Node.js, microservices)
+* Event-driven data processing
+* Authorization systems (RBAC / PBAC)
+* Developer tooling and automation
+* End-to-end testing (Playwright)
+
+---
+
+## 🛠️ Stack
+
+**Backend:** Node.js, TypeScript, Express
+**Databases:** PostgreSQL, MongoDB, MySQL
+**Frontend:** Angular, React
+**Other:** AWS, Docker, CI/CD, Python, Playwright
 
 ---
 
